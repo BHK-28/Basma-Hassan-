@@ -4,6 +4,7 @@
 Electrical Engineering – Control and Computer Engineering (Student)
 
  💻 Technical Skills:
+
  • Programming Languages:
 - Python (Beginner)
 - C++ (Basics)
